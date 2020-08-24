@@ -1,0 +1,20 @@
+[
+  {
+    "productName": "React logo 1",
+    "productDescription": "This is a lovely logo.",
+    "imageURL": "img1.png",
+    "stockQuantity": 16
+  },
+  {
+    "productName": "React logo 2",
+    "productDescription": "Wow this is another good logo.",
+    "imageURL": "img2.png",
+    "stockQuantity": 7
+  },
+  {
+    "productName": "React logo 3",
+    "productDescription": "Yeah this seems a good logo too.",
+    "imageURL": "img3.png",
+    "stockQuantity": 4
+  }
+]
